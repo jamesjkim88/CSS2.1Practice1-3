@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+
+img{
+    width: 100%;
+}
+
+/**********
+NAV-BAR
+**********/
+
+#nav{
+    background-color: black;
+    color: white;
+    height: 75px;
+}
+
+.pics{
+    width: 3%;
+}
+
+.pics img{
+    border-radius: 50px;
+}
+
+#image-1{
+    float: left;
+    margin-left: 15px;
+}
+
+#image-2{
+    float: right;
+    margin-right: 15px;
+}
+
+/**********
+FOOTER
+**********/
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
